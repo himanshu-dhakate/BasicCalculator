@@ -1,6 +1,5 @@
 ## Basic Calculator
 Run the file
-<<<<<<< HEAD
 ```sh
 g++ Basic_Calculator.cpp -o Basic_Calculator
 ./Basic_Calculator
